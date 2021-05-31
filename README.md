@@ -1,10 +1,6 @@
 ### Hi, I'm Tatia :alien:
 
-## About me
-
-Before becoming a developer, I worked as a nurse for about 8 years. I wanted to be a web developer since I was in high school, but I didn't know a lot about the industry back then. When I reached college, I decided to become a nurse for job stability and to play a direct role in helping people. These years were incredibly rewarding and emotionally challenging, and I appreciate everything being a nurse has taught me. I learned to be accountable for my actions, make difficult choices under pressure, and work effectively in a team setting.
-
-After a few months of studying on my own, I joined Bloc / Thinkful's full stack developer program to gain the support of mentors and join a community of other students. I learned a lot of skills, developed connections, and communicated closely with industry professionals.
+I'm a full stack developer, currently residing in Seattle. 
 
 ## Tech
 
