@@ -9,7 +9,7 @@ HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git 
 ## Updates
 
 - 🔭 I’m currently working on a team project with Chingu
-- 🌱 I’m currently learning more about data structures and algorithms & React hooks
+- 🌱 I’m currently learning more about data structures/algorithms and React hooks
 - :computer: I’m looking for work!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tatjanaburdett/)
 - ⚡ Fun facts: I'm a duel citizen. I create music. I love taking photos. I enjoy traveling. I practice yoga.
