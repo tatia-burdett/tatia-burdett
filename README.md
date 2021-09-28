@@ -1,10 +1,14 @@
 ### Hi, I'm Tatia :alien:
 
-I'm a full stack developer, currently residing in New York City. 
+I'm a full stack developer, currently residing in New York City -- employed as a Support Engineer. 
 
 ## Tech
 
 HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git | Figma | Sketch
+
+Gaining experience in:
+
+Python | Django | Typescript
 
 ## Updates
 
