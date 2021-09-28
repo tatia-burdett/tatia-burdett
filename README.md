@@ -4,7 +4,7 @@ I'm a full stack developer, currently residing in New York City -- employed as a
 
 ## Tech
 
-HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git | Figma | Sketch
+HTML | CSS | JavaScript | jQuery | React | Node.js | Express | PostgreSQL | Git | Jira | Figma | Sketch
 
 Gaining experience in:
 
