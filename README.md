@@ -16,9 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatia-burdett&show_icons=true&locale=en&layout=compact" alt="tatia-burdett" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatia-burdett&show_icons=true&locale=en" alt="tatia-burdett" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatia-burdett&" alt="tatia-burdett" /></p>
 
 ## Contact
 
